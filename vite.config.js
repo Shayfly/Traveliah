@@ -1,1 +1,1 @@
-base: '/traveliah/',
+base: '/Traveliah/',
