@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <header className="bg-blue-600 text-white p-4 flex justify-between items-center">
-        <h1 className="text-xl font-bold">Travelia</h1>
+        <h1 className="text-xl font-bold">Traveliah</h1>
         <nav>
           <Link to="/" className="mx-2">בית</Link>
           <Link to="/deals" className="mx-2">דילים</Link>
