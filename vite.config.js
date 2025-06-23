@@ -1,3 +1,1 @@
-export default {
-  base: '/Traveliah/',
-};
+base: '/Traveliah/',
