@@ -1,1 +1,3 @@
-base: '/Traveliah/',
+export default {
+  base: '/Traveliah/',
+};
