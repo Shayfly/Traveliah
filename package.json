@@ -2,6 +2,7 @@
   "name": "travelia",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://shayfly.github.io/Traveliah/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
